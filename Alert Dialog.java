@@ -1,4 +1,4 @@
-package com.example.sonali_ad;
+package com.example.Hemangi_ad;
 
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
