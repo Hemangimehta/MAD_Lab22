@@ -1,4 +1,4 @@
-package com.example.sonali_app2;
+package com.example.Hemangi_app2;
 
 import androidx.appcompat.app.AppCompatActivity;
 
